@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wilsonolu
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning java script 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning react js 
+- 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me ...
 
 <!---
